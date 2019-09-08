@@ -60,7 +60,7 @@ Accordingly, you are required to present the following information:
 
 ## DiSC Profile
 ### C - Concientiousness 
-[C Wedge](https://www.discprofile.com/getattachment/What-is-DiSC/Overview/C.png.aspx)
+![C Wedge](https://www.discprofile.com/getattachment/What-is-DiSC/Overview/C.png.aspx)
 
 > People with the C style place an emphasis on working conscientiously within existing circumstances to ensure quality and accuracy.
 > A person with a C style is motivated by opportunities to gain knowledge, show their expertise, and produce quality work
