@@ -29,25 +29,25 @@ Accordingly, you are required to present the following information:
  - The results of one further online test of your choosing.
 
 ## Myers-Briggs / 16 Personalities
-
+### INFP - "The Mediator" / "The Creative Seeker"
 ![Mediator Splash](https://storage.googleapis.com/neris/public/images/types/scenes/diplomats_Mediator_INFP_introduction.svg) 
 
 ## Learning Style Test
 
 > Your Scores:
-
+>
 > Auditory: 20%
 > Visual: 45%
 > Tactile: 35%
 > You are a Visual learner! Check out the information below, or view all of the learning styles.
-
+>
 > Visual
 > If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning.
-
+>
 > As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery.
-
+>
 > Here are some things that visual learners like you can do to learn better:
-
+>
 > - Sit near the front of the classroom. (It won't mean you're the teacher's pet!)
 > - Have your eyesight checked on a regular basis.
 > - Use flashcards to learn new words.
@@ -60,6 +60,7 @@ Accordingly, you are required to present the following information:
 
 ## DiSC Profile
 ### C - Concientiousness 
+[C Wedge](https://www.discprofile.com/getattachment/What-is-DiSC/Overview/C.png.aspx)
 
 > People with the C style place an emphasis on working conscientiously within existing circumstances to ensure quality and accuracy.
 > A person with a C style is motivated by opportunities to gain knowledge, show their expertise, and produce quality work
@@ -74,6 +75,7 @@ values quality and accuracy
 > - stability and reliability
 > - gaining knowledge and expertise
 > - personal growth
+> 
 > Will need to expend more energy to:
 > - let go of and delegate tasks
 > - compromise for the good of the team
