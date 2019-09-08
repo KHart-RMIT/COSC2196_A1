@@ -28,6 +28,10 @@ Accordingly, you are required to present the following information:
  - The results of an online learning style test.
  - The results of one further online test of your choosing.
 
+## Myers-Briggs / 16 Personalities
+
+![Mediator Splash](https://storage.googleapis.com/neris/public/images/types/scenes/diplomats_Mediator_INFP_introduction.svg) 
+
 The third test should be distinct from both the Myers-Briggs test and the learning styles test.
 
 This could be a Big Five Personality test, a creativity test, or a psychometric test. You should be able to find something free, and please ensure that it is something that a potential employer may find relevant (so please avoid things like a Nerdy Personality Attribute assessment or a Generic Conspiracist Beliefs test!).
