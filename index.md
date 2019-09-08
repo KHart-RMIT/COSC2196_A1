@@ -58,9 +58,30 @@ Accordingly, you are required to present the following information:
 > - Avoid distractions during study times.
 > - Remember that you need to see things, not just hear things, to learn well.
 
-The third test should be distinct from both the Myers-Briggs test and the learning styles test.
+## DiSC Profile
+### C - Concientiousness 
 
-This could be a Big Five Personality test, a creativity test, or a psychometric test. You should be able to find something free, and please ensure that it is something that a potential employer may find relevant (so please avoid things like a Nerdy Personality Attribute assessment or a Generic Conspiracist Beliefs test!).
+> People with the C style place an emphasis on working conscientiously within existing circumstances to ensure quality and accuracy.
+> A person with a C style is motivated by opportunities to gain knowledge, show their expertise, and produce quality work
+prioritizes ensuring accuracy, maintaining stability, and challenging assumptions
+is described as careful, cautious, systematic, diplomatic, accurate and tactful
+may be limited by being overcritical, overanalyzing and isolating themselves
+may fear criticism and being wrong
+values quality and accuracy
+> Goals:
+> - objective processes
+> - correctness
+> - stability and reliability
+> - gaining knowledge and expertise
+> - personal growth
+> Will need to expend more energy to:
+> - let go of and delegate tasks
+> - compromise for the good of the team
+> - join in social events and celebrations
+> - make quick decisions
+> - When communicating with a C-style individual, focus on facts and details; minimize "pep talk" or emotional language; be patient, persistent, and diplomatic.
+> DiSC Classic Patterns: Objective Thinker, Perfectionist, Practitioner
+
 
 In addition to the results themselves, you should answer each of the questions below with one paragraph.
  - What do the results of these tests mean for you?
