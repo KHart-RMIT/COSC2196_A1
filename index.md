@@ -57,6 +57,7 @@ To obtain the remaining required skills neccessary, I will need to complete this
 
 ## Learning Style Test
 ### Visual Learner
+![Visual Learner!](https://cdn.pixabay.com/photo/2014/12/08/21/25/business-561388_1280.jpg)
 
 > Your Scores:
 >
@@ -98,7 +99,8 @@ values quality and accuracy
 > - make quick decisions
 > - When communicating with a C-style individual, focus on facts and details; minimize "pep talk" or emotional language; be patient, persistent, and diplomatic.
 > DiSC Classic Patterns: Objective Thinker, Perfectionist, Practitioner
-
+>
+> [Source - Disc Profile](https://www.discprofile.com/what-is-disc/overview/conscientiousness/)
 
 In addition to the results themselves, you should answer each of the questions below with one paragraph.
  - What do the results of these tests mean for you?
