@@ -111,20 +111,25 @@ Now armed with this knowledge, I will be able to more confidently participate in
 When forming a team, it would be more desirous to find people who are of similar learning types. This allows for whole team to "speak the same language" as it were and communicate most effectively. While attempting to maintain this it is also important to try and have a variety of personality and working types as there is always many different facets to a projects that all require attention. Knowing what the project was going to be before the team is formed would allow for more specific choices in people; eg through knowing what kind of skills and aspects the project was going to encompass. 
 
 ## Project Idea
-You are to write a report of around 1000 words describing your project idea. You should describe the project itself, as well as why you think it is important or interesting, and any potential drawbacks or obstacles you anticipate. What are you passionate about? What kind of IT innovation would you like to see? What project will help you develop the skills, experience and knowledge required to make you qualified for your ideal job?
+### No Man's Sky  - Material Ratio Calculator / Recipe Book
 
-You need not have full answers to any of these questions, but you are required to have some ideas about an IT project that you think will address at least one of these questions. It may not be possible to find one that answers all three, but it is quite likely that something you would find interesting or useful will have a similar effect on others.
+#### Overview
+At the base level, the app would be a database of all refinable and craft-able items in the game and their ingredients, and how to source the ingredients. The materials would also have a list of all recipes they are a part of and the amount needed. After that the recipes themselves would provide a ratio calculator for the user to determine their needs. 
 
-There are a number of possible types of projects that you may consider. Some potential ideas are below; others will be discussed in the following weeks. Developing a game using tools such as Unity, Construct2 or Cocos2d. Developing a smartphone app, using whatever programming language in which you have expertise, or by using tools such as MIT App Inventor. Finding an innovative application for new hardware developments, such as Raspberry Pis, Arduinos, Makey Makeys, small robots or related technologies. Creating a FAQ and implementing it as a chatterbot, possibly involving speech-to-text and text-to-speech software. Building an electronic artefact such as a model for Minecraft or similar games, along the lines of the United Nations Block by Block project. For this assignment, you need to write approximately 1,000 words about your project idea.
+#### Motivation
+With the recent update release for No Man's Sky, the refining ratios and recipes available in the game have changed somewhat. This phone app would be run as a companion to the game played on console or PC to make the information easily accessible for gamers so they don’t have to search it via the wiki or for those who have trouble calculating ratios. 
 
-This should not only describe what the project would be, but also why you think it is important or interesting, and what potential drawbacks or obstacles you anticipate. Your description should include the following sections. The word counts below are
-recommendations only not absolutes but are a good guide.
+#### Description
+The app is designed to be a comprehensive database for all refinable and craft-able items in the game. As such it would contain a search engine so that not only does the required item come up in a search, but all items that are crafted / refined from that item. The information on the base materials would provide information on how to attain the item, and a list of all recipes it is a part of. The recipes would contain a ratio calculator to help determine required input or expected output and amount of time the refining would require. This becomes more advanced as high-teir items require crafted items. This would mean that the calculator would not only be presenting the required components of the requested item, but also the base materials of the components. A possible feature could also be a "shopping list" created from the ratio calculator to allow players to tick off items when they collected the required amounts of materials. 
 
- - Overview (100 words) - This should be a summary of what the project will be.
- - Motivation (100) words) - This should be a description of why the project will beinteresting or useful. This may include statistics or other evidence, such as: "There service. are 1.5 billion cat owners in Australia, and so there is a huge market for an
-automated cat feeder. Using Raspberry Pi technology is a cheap and easily assembled solution to this problem."
- - Description (500 words) - Detailed description of the features of the product or
-service
- - Tools and Technologies (100) words) - Describe the software, hardware and/or other equipment needed. Include any relevant open source tools as appropriate.
- - Skills Required (100 words) - List the skills are required for your project, including software that needs to be written, and special hardware (if any). How feasible will it be to find the skills, software and hardware required?
- - Outcome (100 words) - If the project is successful, what will be the outcome? How will the original problem be solved? What impact will this development have?
+#### Technologies
+The main software required would be MIT App Inventor for the creation of the app. Support applications could include MS Excel or Google Sheets for key ratio formatting and formulas, and MS Access for database management. An Android phone would be required for testing and a computer for running the requisite software.
+
+#### Skills Required
+ - Experience with MIT App Inventor
+ - Knowledge of the game's crafting trees
+
+While the the successful networking of the informational tags and database will be difficult, the informational content will be realtively easy to obtain. The core obstacle will be my lack of knowldge and experience with MIT App Inventor, so it would take time to attain those skills. 
+
+#### Outcome
+The creation of this companion app would allow for a less stressful play through of the game for players who have difficulty calculating ratios and juggling material lists and requirements. Hopefully with this in mind many more players will be able to enjoy the game and wont find these aspects of the game as much of a chore. 
