@@ -52,6 +52,7 @@ To obtain the remaining required skills neccessary, I will need to complete this
 >Mediator personalities are true idealists, always looking for the hint of good in even the worst of people and events, searching for ways to make things better. While they may be perceived as calm, reserved, or even shy, Mediators have an inner flame and passion that can truly shine. Comprising just 4% of the population, the risk of feeling misunderstood is unfortunately high for the Mediator personality type – but when they find like-minded people to spend their time with, the harmony they feel will be a fountain of joy and inspiration.
 >
 > In the workplace, Mediators face the challenge of taking their work and their profession personally. To Mediators, if it isn’t worth doing, it isn’t really worth doing, and this sense of moral purpose in their work colors everything from how they respond to authority to how they express it. Though the way the Mediator personality type shows through depends on the position, there are a few basic truths about what Mediators seek in the workplace: they value harmony, need an emotional and moral connection to their work, and loathe bureaucratic tedium.
+>
 >[Source - 16 Personalities](https://www.16personalities.com/infp-personality)
 
 ## Learning Style Test
@@ -69,7 +70,7 @@ To obtain the remaining required skills neccessary, I will need to complete this
 >
 > As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery.
 >
-> [Source - Education Planner}(http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
+> [Source - Education Planner](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
 
 ## DiSC Profile
 ### C - Concientiousness 
