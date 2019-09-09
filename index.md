@@ -67,7 +67,6 @@ To obtain the remaining required skills neccessary, I will need to complete this
 > 
 >You are a Visual learner! Check out the information below, or view all of the learning styles.
 >
->Visual
 >If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning.
 >
 >As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery.
