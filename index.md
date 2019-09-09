@@ -6,6 +6,8 @@ Welcome to my Personal Profile for Assessment 1!
 
 My name is Krystien. I'm 26 and have been working in customer service and IT support for 5 years. Currently I am working as a Desktop Support Officer for a hospital. I am an avid video- and board-gamer, especially strategy and survival games, and play softball for fun.
 
+![Me!](https://raw.githubusercontent.com/KHart-RMIT/COSC2196_A1/master/20181004_133942.jpg)
+
 ## Interest in IT
  
 Computers have always been a constant companion in my life. For gaming, schoolwork, research, etc; IT has always been a useful tool and a way for me to create and interact with the wider world. Through my jobs I have gained experience in the administration and troubleshooting of many different aspects of IT, including: 
