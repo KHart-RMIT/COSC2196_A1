@@ -4,9 +4,7 @@
 
 Welcome to my Personal Profile for Assessment 1!
 
-My name is Krystien. I'm 26 and have been working in customer service and IT support for 5 years. Currently I am working as a Desktop Support Officer for a hospital. 
-
-I am an avid video- and board-gamer, especially strategy and survival games, and play softball for fun.
+My name is Krystien. I'm 26 and have been working in customer service and IT support for 5 years. Currently I am working as a Desktop Support Officer for a hospital. I am an avid video- and board-gamer, especially strategy and survival games, and play softball for fun.
 
 ## Interest in IT
  
