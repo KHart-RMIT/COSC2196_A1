@@ -1,24 +1,37 @@
-# Specifications
-## Personal Information
-Include your name, student number, email address, and some basic background information nationality and culture, education to date, languages spoken etc). Include at least one fact about yourself that others may find interesting, such as a hobby, a pet or your favourite sport or other pastime.
+# Krystien Hart
+
+## S3627661@rmit.edu.au
+
+Welcome to my Personal Profile for Assessment 1!
+
+My name is Krystien. I'm 26 and have been working in customer service and IT support for 5 years. Currently I am working as a Desktop Support Officer for a hospital. 
+
+I am an avid video- and board-gamer, especiallty strategy and survival games, and play softball for fun.
 
 ## Interest in IT
-You should answer the questions below as best you can. Each answer should be one paragraph in length.
- - What is your interest in IT? When did your interest in IT start? Was there a particular
-event or person that sparked your interest? Outline your IT experience (if any).
- - Why did you choose to come to RMIT?
- - What do you expect to learn during your studies?
+ 
+Computers have always been a constant companion in my life. For gaming, schoolwork, research, etc, IT has always been a useful tool and way for me to create and interact with the wider world. Through my jobs I have gained experience in the administration and troubleshooting of many different aspects of IT, including: 
+ - Microsoft Windows (XP, Vista, 7, 8, 10)
+ - Microsoft Office Applications
+ - MS Admin Tools (Active Directory)
+ - Ticketing Systems
+ - Basic IP networking
+ - Basic Network Admin
+ - Mobile Networking and applications
+ - Printer Networking
+ 
+ I chose to come to RMIT from the options provided through Online University. After some research i found that RMIT presented with the strongest course that was most closely aligned with what I wanted to learn in IT and online support available to help me succeed. I look forward to completing this course, and eventual degree, with them. 
+
+During my strudies in this course I hope to learn the more advanced techniques that arent normally available to be trained in the workplace. Network and computer management, hardware analysis and troubleshooting, server management (eg. Azure, Amazon Web) and powershell scripting are some of the main examples of what I look forward to learning. I also hope to undertake the IT Security elective to help develop my knowledge in anticipation of looking for work specifially in that sector. 
 
 ## Ideal Job
-Find an advertisement showing what you believe to be your ideal job. This may require several years of experience, and hence be something that you must work towards, rather than something that you are ready for now, or will be able to fill as soon as you graduate.
+### [Security Analyst](https://www.seek.com.au/job/39805089)
 
-There are various ways to search for IT jobs, including websites like {seek.com.au}.
-You should include the following information.
- - The job advertisement itself. Include a link, and a snapshot of it (in case the link expires before the assignment deadline).
- - A description (in your own words) of the position, and particularly what makes this position appealing to you.
- - A description (in your own words) of the skills, qualifications and experience required for the position.
- - A description (in your own words) of the skills, qualifications and experience you currently have.
- - A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can.
+The position of a Security Analyst calls for a couple of major roles. Not only do they continuously monitor systems for secutiry alerts that they analyse and action, but also provide and create policies and user documentation to help manage user behaviour that leads to a more secure system and network. They also engage with major stakeholders (affected people) to keep them updated on any major alerts as they attempt to combat whatever attempted breaches occur. 
+
+This advertised position requires advanced knowledge including IT Threat assessment, network and cloud security management, experience in documentation and policy writing, and experience in stakeholder engagment via written and oral means. My own experience has granted me skills in stakeholder engagement, user documentation writing, basic software and hardware support, and basic user network administration. 
+
+To obtain the remaining required skills neccessary, I will need to complete this degree, along with the IT Security elective. I am also looking at attaining the COMPTIA A+ Security Certification for added qualification. By the time these courses are complete I will have completed 8 years in the IT industry, and should therefore be in a position to begin an entry-level IT Security role. 
 
 ## Personal Profile
 There are a number of online tests that are commonly used by employers to get specific information about potential employees. One of the best-known of these is the Myers-Briggs Type Indicator (MBTI) test, which was developed by the mother-anddaughter team of Isabel Myers and Katharine Briggs. Another popular one (and very relevant to students) is about learning styles. There are various other tests available online as well, and while there is no guarantee that any specific test will be necessarily one that you will encounter in your career, it seems highly likely that you will have to do some kind of test like this as part of a recruitment process.
