@@ -113,6 +113,7 @@ When forming a team, it would be more desirous to find people who are of similar
 ## Project Idea
 ### No Man's Sky  - Material Ratio Calculator / Recipe Book
 ![NMS Banner](https://www.nomanssky.com/wp-content/uploads/2017/02/logo.png)
+                                                             ###### [Source](https://www.nomanssky.com)
 
 #### Overview
 At the base level, the app would be a database of all refinable and craft-able items in the game and their ingredients, and how to source the ingredients. The materials would also have a list of all recipes they are a part of and the amount needed. After that the recipes themselves would provide a ratio calculator for the user to determine their needs. 
