@@ -65,7 +65,7 @@ To obtain the remaining required skills neccessary, I will need to complete this
 >  - Visual: 45%
 >  - Tactile: 35%
 > 
->You are a Visual learner! Check out the information below, or view all of the learning styles.
+>You are a Visual learner!
 >
 >If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning.
 >
