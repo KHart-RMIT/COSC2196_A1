@@ -74,7 +74,7 @@ To obtain the remaining required skills neccessary, I will need to complete this
 >[Source - Education Planner](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
 
 ### DiSC Profile
-#### C - Concientiousness 
+#### C - Conscientiousness 
 ![C Wedge](https://www.discprofile.com/getattachment/What-is-DiSC/Overview/C.png.aspx)
 
 >People with the C style place an emphasis on working conscientiously within existing circumstances to ensure quality and accuracy.
@@ -102,10 +102,13 @@ values quality and accuracy
 >
 > [Source - Disc Profile](https://www.discprofile.com/what-is-disc/overview/conscientiousness/)
 
-In addition to the results themselves, you should answer each of the questions below with one paragraph.
- - What do the results of these tests mean for you?
- -  How do you think these results may influence your behaviour in a team?
- -  How should you take this into account when forming a team?
+### Reflection
+
+I find the above reults to be a rather accurate summary of my personality and work management preferences. I find it affirming to have confirmation about certain areas of myself ive been guessing at and it provides a solid foundation for which i can improve my skills and balance my shortcomings. I feel this insight in to myself will be very beneficial in working with my gorup moving forward.
+
+Now armed with this knowledge, I will be able to more confidently participate in group work. Understanding that how I act is perfectly natural, and that there are ways to help manage and work with my faults will allow me to better control how I act in group settings for the benefit of the team. As per the information in the 16 Personalities results; I will endeavour to keep my ideas confined to the possible and realistic to prevent uneccessary time spent on work that will not succeed. 
+
+When forming a team, it would be more desirous to find people who are of similar learning types. This allows for whole team to "speak the same language" as it were and communicate most effectively. While attempting to maintain this it is also important to try and have a variety of personality and working types as there is always many different facets to a projects that all require attention. Knowing what the project was going to be before the team is formed would allow for more specific choices in people; eg through knowing what kind of skills and aspects the project was going to encompass. 
 
 ## Project Idea
 You are to write a report of around 1000 words describing your project idea. You should describe the project itself, as well as why you think it is important or interesting, and any potential drawbacks or obstacles you anticipate. What are you passionate about? What kind of IT innovation would you like to see? What project will help you develop the skills, experience and knowledge required to make you qualified for your ideal job?
