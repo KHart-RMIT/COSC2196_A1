@@ -45,8 +45,8 @@ To obtain the remaining required skills neccessary, I will need to complete this
 
 ## Personal Profile
 
-## Myers-Briggs / 16 Personalities
-### INFP - "The Mediator" / "The Creative Seeker"
+### Myers-Briggs / 16 Personalities
+#### INFP - "The Mediator" / "The Creative Seeker"
 ![Mediator Splash](https://storage.googleapis.com/neris/public/images/types/scenes/diplomats_Mediator_INFP_introduction.svg) 
 
 >Mediator personalities are true idealists, always looking for the hint of good in even the worst of people and events, searching for ways to make things better. While they may be perceived as calm, reserved, or even shy, Mediators have an inner flame and passion that can truly shine. Comprising just 4% of the population, the risk of feeling misunderstood is unfortunately high for the Mediator personality type – but when they find like-minded people to spend their time with, the harmony they feel will be a fountain of joy and inspiration.
@@ -55,8 +55,8 @@ To obtain the remaining required skills neccessary, I will need to complete this
 >
 >[Source - 16 Personalities](https://www.16personalities.com/infp-personality)
 
-## Learning Style Test
-### Visual Learner
+### Learning Style Test
+#### Visual Learner
 ![Visual Learner!](https://cdn.pixabay.com/photo/2014/12/08/21/25/business-561388_1280.jpg)
 
 >Your Scores:
@@ -73,8 +73,8 @@ To obtain the remaining required skills neccessary, I will need to complete this
 >
 >[Source - Education Planner](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
 
-## DiSC Profile
-### C - Concientiousness 
+### DiSC Profile
+#### C - Concientiousness 
 ![C Wedge](https://www.discprofile.com/getattachment/What-is-DiSC/Overview/C.png.aspx)
 
 >People with the C style place an emphasis on working conscientiously within existing circumstances to ensure quality and accuracy.
