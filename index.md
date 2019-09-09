@@ -59,46 +59,47 @@ To obtain the remaining required skills neccessary, I will need to complete this
 ### Visual Learner
 ![Visual Learner!](https://cdn.pixabay.com/photo/2014/12/08/21/25/business-561388_1280.jpg)
 
-> Your Scores:
+>Your Scores:
 >
-> Auditory: 20%
-> Visual: 45%
-> Tactile: 35%
-> You are a Visual learner! Check out the information below, or view all of the learning styles.
+>  - Auditory: 20%
+>  - Visual: 45%
+>  - Tactile: 35%
+> 
+>You are a Visual learner! Check out the information below, or view all of the learning styles.
 >
-> Visual
-> If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning.
+>Visual
+>If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning.
 >
-> As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery.
+>As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery.
 >
-> [Source - Education Planner](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
+>[Source - Education Planner](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
 
 ## DiSC Profile
 ### C - Concientiousness 
 ![C Wedge](https://www.discprofile.com/getattachment/What-is-DiSC/Overview/C.png.aspx)
 
-> People with the C style place an emphasis on working conscientiously within existing circumstances to ensure quality and accuracy.
-> A person with a C style is motivated by opportunities to gain knowledge, show their expertise, and produce quality work
+>People with the C style place an emphasis on working conscientiously within existing circumstances to ensure quality and accuracy.
+>A person with a C style is motivated by opportunities to gain knowledge, show their expertise, and produce quality work
 prioritizes ensuring accuracy, maintaining stability, and challenging assumptions
 is described as careful, cautious, systematic, diplomatic, accurate and tactful
 may be limited by being overcritical, overanalyzing and isolating themselves
 may fear criticism and being wrong
 values quality and accuracy
 >
-> Goals:
+>Goals:
 > - objective processes
 > - correctness
 > - stability and reliability
 > - gaining knowledge and expertise
 > - personal growth
 > 
-> Will need to expend more energy to:
+>Will need to expend more energy to:
 > - let go of and delegate tasks
 > - compromise for the good of the team
 > - join in social events and celebrations
 > - make quick decisions
 > - When communicating with a C-style individual, focus on facts and details; minimize "pep talk" or emotional language; be patient, persistent, and diplomatic.
-> DiSC Classic Patterns: Objective Thinker, Perfectionist, Practitioner
+>DiSC Classic Patterns: Objective Thinker, Perfectionist, Practitioner
 >
 > [Source - Disc Profile](https://www.discprofile.com/what-is-disc/overview/conscientiousness/)
 
