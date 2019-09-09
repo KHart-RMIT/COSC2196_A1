@@ -6,11 +6,11 @@ Welcome to my Personal Profile for Assessment 1!
 
 My name is Krystien. I'm 26 and have been working in customer service and IT support for 5 years. Currently I am working as a Desktop Support Officer for a hospital. 
 
-I am an avid video- and board-gamer, especiallty strategy and survival games, and play softball for fun.
+I am an avid video- and board-gamer, especially strategy and survival games, and play softball for fun.
 
 ## Interest in IT
  
-Computers have always been a constant companion in my life. For gaming, schoolwork, research, etc, IT has always been a useful tool and way for me to create and interact with the wider world. Through my jobs I have gained experience in the administration and troubleshooting of many different aspects of IT, including: 
+Computers have always been a constant companion in my life. For gaming, schoolwork, research, etc; IT has always been a useful tool and a way for me to create and interact with the wider world. Through my jobs I have gained experience in the administration and troubleshooting of many different aspects of IT, including: 
  - Microsoft Windows (XP, Vista, 7, 8, 10)
  - Microsoft Office Applications
  - MS Admin Tools (Active Directory)
@@ -20,32 +20,42 @@ Computers have always been a constant companion in my life. For gaming, schoolwo
  - Mobile Networking and applications
  - Printer Networking
  
- I chose to come to RMIT from the options provided through Online University. After some research i found that RMIT presented with the strongest course that was most closely aligned with what I wanted to learn in IT and online support available to help me succeed. I look forward to completing this course, and eventual degree, with them. 
+ I chose to come to RMIT from the options provided through Online University. After some research I found that RMIT presented me with the strongest course that was most closely aligned with what I wanted to learn, and provided strong online support to help me succeed. I look forward to completing this course, and eventual degree, with them. 
 
-During my strudies in this course I hope to learn the more advanced techniques that arent normally available to be trained in the workplace. Network and computer management, hardware analysis and troubleshooting, server management (eg. Azure, Amazon Web) and powershell scripting are some of the main examples of what I look forward to learning. I also hope to undertake the IT Security elective to help develop my knowledge in anticipation of looking for work specifially in that sector. 
+During my strudies in this course I hope to learn the more advanced techniques that aren't normally available to be trained in the workplace. Network and computer management, hardware analysis and troubleshooting, server management (eg. Azure, Amazon Web) and powershell scripting are some of the main examples of what I look forward to learning. I also hope to undertake the IT Security elective to help develop my knowledge in anticipation of looking for work specifically in that sector. 
 
 ## Ideal Job
 ### [Security Analyst](https://www.seek.com.au/job/39805089)
 
-The position of a Security Analyst calls for a couple of major roles. Not only do they continuously monitor systems for secutiry alerts that they analyse and action, but also provide and create policies and user documentation to help manage user behaviour that leads to a more secure system and network. They also engage with major stakeholders (affected people) to keep them updated on any major alerts as they attempt to combat whatever attempted breaches occur. 
+The position of a Security Analyst calls for a couple of major roles. Not only do they continuously monitor systems for security alerts that they analyse and action; but also provide and create policies and user documentation, helpting to manage user behaviour and lead  to a more secure system and network. They also engage with major stakeholders (affected people) to keep them updated on any major alerts as they combat whatever attempted breaches occur. 
 
-This advertised position requires advanced knowledge including IT Threat assessment, network and cloud security management, experience in documentation and policy writing, and experience in stakeholder engagment via written and oral means. My own experience has granted me skills in stakeholder engagement, user documentation writing, basic software and hardware support, and basic user network administration. 
+This advertised position requires advanced knowledge including: 
+ - IT Threat assessment
+ - Network and Cloud security management
+ - Experience in documentation and policy writing
+ - Experience in stakeholder engagment via written and oral means
+ 
+ My own experience has granted me skills in:
+ - Stakeholder engagement
+ - User documentation writing
+ - Basic software and hardware support
+ - Basic user network administration. 
 
-To obtain the remaining required skills neccessary, I will need to complete this degree, along with the IT Security elective. I am also looking at attaining the COMPTIA A+ Security Certification for added qualification. By the time these courses are complete I will have completed 8 years in the IT industry, and should therefore be in a position to begin an entry-level IT Security role. 
+To obtain the remaining required skills neccessary, I will need to complete this degree along with the IT Security elective. I am also looking at attaining the COMPTIA A+ Security Certification for added qualification. By the time these courses are complete I will have completed 10 years in the IT industry, and should therefore be in a position to begin an entry-level IT Security role. 
 
 ## Personal Profile
-There are a number of online tests that are commonly used by employers to get specific information about potential employees. One of the best-known of these is the Myers-Briggs Type Indicator (MBTI) test, which was developed by the mother-anddaughter team of Isabel Myers and Katharine Briggs. Another popular one (and very relevant to students) is about learning styles. There are various other tests available online as well, and while there is no guarantee that any specific test will be necessarily one that you will encounter in your career, it seems highly likely that you will have to do some kind of test like this as part of a recruitment process.
-
-Accordingly, you are required to present the following information:
- - The results of an online Myers-Briggs test.
- - The results of an online learning style test.
- - The results of one further online test of your choosing.
 
 ## Myers-Briggs / 16 Personalities
 ### INFP - "The Mediator" / "The Creative Seeker"
 ![Mediator Splash](https://storage.googleapis.com/neris/public/images/types/scenes/diplomats_Mediator_INFP_introduction.svg) 
 
+>Mediator personalities are true idealists, always looking for the hint of good in even the worst of people and events, searching for ways to make things better. While they may be perceived as calm, reserved, or even shy, Mediators have an inner flame and passion that can truly shine. Comprising just 4% of the population, the risk of feeling misunderstood is unfortunately high for the Mediator personality type – but when they find like-minded people to spend their time with, the harmony they feel will be a fountain of joy and inspiration.
+>
+> In the workplace, Mediators face the challenge of taking their work and their profession personally. To Mediators, if it isn’t worth doing, it isn’t really worth doing, and this sense of moral purpose in their work colors everything from how they respond to authority to how they express it. Though the way the Mediator personality type shows through depends on the position, there are a few basic truths about what Mediators seek in the workplace: they value harmony, need an emotional and moral connection to their work, and loathe bureaucratic tedium.
+>[Source - 16 Personalities](https://www.16personalities.com/infp-personality)
+
 ## Learning Style Test
+### Visual Learner
 
 > Your Scores:
 >
@@ -59,17 +69,7 @@ Accordingly, you are required to present the following information:
 >
 > As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery.
 >
-> Here are some things that visual learners like you can do to learn better:
->
-> - Sit near the front of the classroom. (It won't mean you're the teacher's pet!)
-> - Have your eyesight checked on a regular basis.
-> - Use flashcards to learn new words.
-> - Try to visualize things that you hear or things that are read to you.
-> - Write down key words, ideas, or instructions.
-> - Draw pictures to help explain new concepts and then explain the pictures.
-> - Color code things.
-> - Avoid distractions during study times.
-> - Remember that you need to see things, not just hear things, to learn well.
+> [Source - Education Planner}(http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
 
 ## DiSC Profile
 ### C - Concientiousness 
@@ -82,6 +82,7 @@ is described as careful, cautious, systematic, diplomatic, accurate and tactful
 may be limited by being overcritical, overanalyzing and isolating themselves
 may fear criticism and being wrong
 values quality and accuracy
+>
 > Goals:
 > - objective processes
 > - correctness
